@@ -15,7 +15,7 @@ public class TaxTest {
 	
 	@Test
 	public void test3() {
-		assertEquals(Tax.calcConsumptionTax(1000), 70);
+		assertEquals(Tax.calcConsumptionTax(1000), 80);
 	}
 	
 	
